@@ -1,5 +1,6 @@
-# Name : PAVANI JAIN
-# Roll No : 590027830
+# MID TERM PROJECT : DAILY USER LOG ARCHIVER
+## Name : PAVANI JAIN
+## Roll No : 590027830
 ## Batch No: B77 CSE
 ## Goal : Create a shell script that logs current system information
 
