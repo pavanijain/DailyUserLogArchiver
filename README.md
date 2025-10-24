@@ -1,3 +1,6 @@
+Name : PAVANI JAIN
+Roll No : 590027830
+Goal : Create a shell script that logs current system information
 cd /home/pavani/Desktop/DailyUserLogArchiver/
 git init
 git add daily_log_archiver.sh README.md
