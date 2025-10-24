@@ -1,7 +1,7 @@
-#Name : PAVANI JAIN
-#Roll No : 590027830
-##Batch No: B77 CSE
-##Goal : Create a shell script that logs current system information
+# Name : PAVANI JAIN
+# Roll No : 590027830
+## Batch No: B77 CSE
+## Goal : Create a shell script that logs current system information
 
 cd /home/pavani/Desktop/DailyUserLogArchiver/
 git init
