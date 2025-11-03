@@ -1,3 +1,41 @@
+# **Experiment: Daily System Logger Script**
+**Name:** Pavani Jain
+**Roll No.:** 590027830  
+**Date:** 20 October 2025  
+
+---
+
+## **AIM**
+To create a shell script that logs current system information, rotates old logs, and schedules itself to run daily.
+
+---
+
+## **Requirements**
+- Any Linux Distro  
+- Any text editor (VS Code, Vim, Nano, etc.)  
+- Cron service for scheduling  
+
+---
+
+## **Theory**
+System logging is an important process in Linux to monitor daily activities like user logins, disk usage, and running processes.  
+A shell script can automate this process by collecting the system data daily and saving it in log files. To avoid storage overload, the script can automatically remove logs older than a certain number of days.  
+Using **cron jobs**, the script can be scheduled to run automatically every day without manual execution.
+
+---
+
+## **Procedure & Observations**
+
+### **Exercise 1: Creating the Daily Log Script**
+
+**Task Statement:**  
+Write a shell script that logs system information and handles automatic rotation of old logs.
+
+---
+
+## **Code**
+```bash
+
 #!/bin/bash
 #
 # Daily User Log Archiver Project Script
