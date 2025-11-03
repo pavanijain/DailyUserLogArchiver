@@ -24,14 +24,8 @@ Using **cron jobs**, the script can be scheduled to run automatically every day 
 
 ---
 
-## **Procedure & Observations**
 
-### **Exercise 1: Creating the Daily Log Script**
 
-**Task Statement:**  
-Write a shell script that logs system information and handles automatic rotation of old logs.
-
----
 
 ## **Code**
 ```bash
